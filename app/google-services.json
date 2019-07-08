@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282800122195",
+    "firebase_url": "https://tlakinadz.firebaseio.com",
+    "project_id": "tlakinadz",
+    "storage_bucket": "tlakinadz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282800122195:android:a99a0ada0707dd53",
+        "android_client_info": {
+          "package_name": "com.dz.tlakina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282800122195-vo2b7vf278q131abta9rcjin72vegkjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dz.tlakina",
+            "certificate_hash": "e988ad3f4ff7e799bebf39af45af07d35afb5353"
+          }
+        },
+        {
+          "client_id": "282800122195-fbmn7a6ebd7qhc9ba1lktti96pobo1c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3Unpme9rfiineGsCSphJSNbhugH7uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282800122195-fbmn7a6ebd7qhc9ba1lktti96pobo1c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
